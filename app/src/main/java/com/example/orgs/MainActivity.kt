@@ -1,4 +1,4 @@
 package com.example.orgs
 
-class mainActivity {
+class MainActivity {
 }
